@@ -1,0 +1,11 @@
+div{
+    border: 1px solid red;
+    width:200px;
+    height:300px;
+    padding:20px;
+}
+div button{
+    border: 1px solid green;
+    background: green;
+    color: white;
+}

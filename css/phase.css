@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    margin: 20px;
+}
+
+ #grandParent{
+    background-color: blue;
+    color: white;
+    width:100%;
+    height: 200px;
+    position: relative;
+    
+}
+ #parent{
+    background-color: orange;
+    color: white;
+    position: absolute;
+    top: 70px;
+    left:50px;
+    height:120px;
+    width: 90%;
+}
+ #child{
+    background-color: yellow; position: absolute;
+    top: 85px;
+    left:80px;
+    height:90px;
+    width: 85%;
+
+}

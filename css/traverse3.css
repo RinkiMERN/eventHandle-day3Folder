@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: black;;
+}
+ul{
+    list-style: none;
+    margin:10px;
+}
+ul li{
+    font-size: 15px;
+    background-color: grey;
+    color:#fff;
+    margin-bottom: 3px;
+    padding:10px;
+}
+.btn-danger{
+    background-color: crimson;
+    color: white;
+    text-transform: uppercase;
+    border: 1px solid crimson;
+    float: right;
+    font-size: 12px;
+    padding:3px;
+    cursor: pointer;
+}
